@@ -8,7 +8,6 @@ This Educational Technology Plan is designed to ensure that all aspects of the i
 ### AP Computer Science Principles
 
 AP Computer Science Principles provides an overview of computer science. Students will:
-
 * Learn to design solutions to problems and evaluate the efficacy of those solutions
 * Develop algorithms and programs which include abstraction
 * Discover new knowledge using data
@@ -17,10 +16,9 @@ AP Computer Science Principles provides an overview of computer science. Student
 
 ### Golden Valley High School
 
-Golden Valley High School is one of six comprehensive high schools in the Merced Union High School District. Located in the central San Joaquin Valley, the district serves approximately 10,500 students from the Merced, Atwater, and Livingston communities. There are 13 feeder school districts for the entire high school district. Golden Valley's approximately 1850 students come from of seven of those feeder districts.
+Golden Valley High School is one of six comprehensive high schools in the Merced Union High School District. Located in the central San Joaquin Valley, the district serves approximately 10,500 students from the Merced, Atwater, and Livingston communities. There are 13 feeder school districts for the entire high school district. Golden Valley's approximately 1850 students come from schools in seven of those feeder districts.
 
 School Demographics by Ethnicity:
-
 * Hispanic/Latino - 68.2%
 * White - 13.62%
 * Asian - 9.93%
@@ -31,14 +29,13 @@ School Demographics by Ethnicity:
 * Multiple/No Response - 1.57%
 
 School Demographics by Student Group:
-
 * Socio-Economically Disadvantaged (Title I) - 82.6%
 * English Learners - 8.3%
 * Foster Youth - 0.5%
 * Special Education - 10.5%
 * Homeless Youth (McKinney-Vento) - 7.2%
 
-  
+The District has invested in providing chromebooks to each students. Each campus is outfitted with wireless access points in each classroom and most of the common areas. Students are able to access their Google apps and the internet while at school, in any class they may be in. Unfortunately, there are a number of students who do not have access at home, due to lack of availability for people who live away from the city or a family's inability to afford the cost.    
 
 Provide relevant details about your course and/or school that will influence the
 decisions in the plan. What assets and constraints do you face? What is the
