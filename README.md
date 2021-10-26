@@ -17,27 +17,28 @@ AP Computer Science Principles provides an overview of computer science. Student
 
 ### Golden Valley High School
 
-Golden Valley High School is one of six comprehensive high schools in the Merced Union High School District. Located in the central San Joaquin Valley, the district serves approximately 10,500 students from the Merced, Atwater, and Livingston communities. There are 13 feeder school districts for the entire high school district. Golden Valley's approximately 1850 students were a part of seven of those feeder districts.
+Golden Valley High School is one of six comprehensive high schools in the Merced Union High School District. Located in the central San Joaquin Valley, the district serves approximately 10,500 students from the Merced, Atwater, and Livingston communities. There are 13 feeder school districts for the entire high school district. Golden Valley's approximately 1850 students come from of seven of those feeder districts.
 
-District Demographics by Ethnicity:
+School Demographics by Ethnicity:
 
-* Hispanic - 69.3%
-* Asian - 8.3%
-* African American - 3.7%
-* White - 15.6%
-* Multiple - 3.1%
+* Hispanic/Latino - 68.2%
+* White - 13.62%
+* Asian - 9.93%
+* African American - 4.88%
+* Filipino - 0.54%
+* Pacific Islander - 0.33%
+* American Indian - 0.22%
+* Multiple/No Response - 1.57%
 
-District Demographics by Student Group:
+School Demographics by Student Group:
 
-* Socio-Economically Disadvantaged (Title I) - 74.9%
-* English Learners - 9.1%
-* Foster Youth - 0.8%
-* Special Education - 10.4%
-* Homeless Youth (McKinney-Vento) - 7.5%
+* Socio-Economically Disadvantaged (Title I) - 82.6%
+* English Learners - 8.3%
+* Foster Youth - 0.5%
+* Special Education - 10.5%
+* Homeless Youth (McKinney-Vento) - 7.2%
 
-In an effort to have students be both college and career ready, students at Golden Valley are required to take a minimum of two years of a CTE pathway. AP Computer Science Principles serves as the third-year capstone class in the "Information & Communication Technology" pathway. Students enter the class after completing Intro to Computer Science and Computer Programming 1.  
-
-Student enrollment covers multiple demographics. In 2019-2020 
+  
 
 Provide relevant details about your course and/or school that will influence the
 decisions in the plan. What assets and constraints do you face? What is the
