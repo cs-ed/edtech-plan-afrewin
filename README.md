@@ -35,7 +35,7 @@ School Demographics by Student Group:
 * Special Education - 10.5%
 * Homeless Youth (McKinney-Vento) - 7.2%
 
-The District has invested in providing chromebooks to each students. Each campus is outfitted with wireless access points in each classroom and most of the common areas. Students are able to access their Google apps and the internet while at school, in any class they may be in. Unfortunately, there are a number of students who do not have access at home, due to lack of availability for people who live away from the city or a family's inability to afford the cost.    
+The District has invested in providing chromebooks to each students. Each campus is outfitted with wireless access points in each classroom and most of the common areas. Students are able to access their Google apps and the internet while at school, in any class or common area they may be in. Unfortunately, there are a number of students who do not have access at home, due to lack of availability for people who live away from the city or a family's inability to afford the cost.    
 
 Provide relevant details about your course and/or school that will influence the
 decisions in the plan. What assets and constraints do you face? What is the
@@ -43,7 +43,7 @@ context of your class, considering demographic and technical resources?
 
 ## Plan
 
-### Software Specifications
+### Software & Specifications
 
 * Codehs.com
 * 
@@ -51,7 +51,7 @@ Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.
 
-### Hardware Specifications
+### Hardware & Specifications
 
 #### Student Hardware
 
