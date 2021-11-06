@@ -43,8 +43,7 @@ One of the District's LCAP goals is to make all students college and career read
 
 ### Software & Specifications
 
-All software requires an internet connection:
-
+**All software requires an internet connection:**
 * CodeHS.com
   * This serves as the main platform for the course curriculum. Students will access videos, assignments, and the CodeHS editor here.
 * Google Apps for Education
@@ -100,45 +99,52 @@ The CodeHS curriculum uses a blended classroom approach of mixing both online ac
 
 #### Homework/Out-of-Class Activities
 
-* **Video Tutorials (Curated by CodeHS or the CollegeBoard/AP Program)**
-  * Students will complete guided notes while watching these short videos.
+**Video Tutorials (Curated by CodeHS or the CollegeBoard/AP Program)**
+* Students will complete guided notes while watching these short videos.
 
 By watching the videos as homework, class time can be focused on practice and discussions where students need more help. The videos are also available on-demand, allowing students to access them as needed for review or clarification. All students will benefit from completing guided notes. The blanks "serve as strong prompts and scaffolding to direct students' attention to the lecture, as well as to the content of their notes" (Chen et al., 2016).
 
-* **Check for Understanding (Short Quizzes on CodeHS)**
-  * After completing their guided notes, students will complete a short "quiz."
+**Check for Understanding (Short Quizzes on CodeHS)**
+* After completing their guided notes, students will complete a short "quiz."
 
 The instructor can use the results of this check for understanding to guide the selection of the next day's warm up and class discussion to address any misconceptions the students may have.
 
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
-
 #### In-Class Activities
 
-* **Daily Warm-Up via Google Jamboard or Google Form (Peer Instruction)**
-  * A question with discrete options is posed.
-  * Students consider and submit their answers individually.
-  * Students discuss with their answers with their partner, outlining the reasoning behind their response.
-  * Students are given a chance to resubmit or change their answer.
-  * The correct answer is reviewed, with students sharing their (or their partner's) reasoning with the entire class.
+**Daily Warm-Up via Google Jamboard or Google Form (Peer Instruction)**
+* A question with discrete options is posed.
+* Students consider and submit their answers individually.
+* Students discuss with their answers with their partner, outlining the reasoning behind their response.
+* Students are given a chance to resubmit or change their answer.
+* The correct answer is reviewed, with students sharing their (or their partner's) reasoning with the entire class.
 
 Peer instruction "explicitly incorporates opportunities for students to explain their reasoning and engage in argumentation, practices that help students integrate new information with existing knowledge and revise their mental models" (Knight & Brame, 2018). It also allows for immediate feedback, allowing students to reflect on their misunderstanding and monitor their own understanding (Knight & Brame, 2018). The warm-up question can be framed to review the previous day's lesson or to spiral review from prior concepts. Questions that uncover common student misconceptions are particularly beneficial to helping students discover why that idea is incorrect (Knight & Brame, 2018). This is also a good format for helping students practice debugging a provided program.
 
-* **Examples & Coding Exercises**
-  * An example of specific types of coding are provided each lesson.
-  * The instructor and students will discuss the example before students complete coding exercises, within CodeHS.
-  * As students work, the instructor can use class time to address students 1-on-1 to discuss their work, give help, etc.
+**Examples & Coding Exercises**
+* An example of specific types of coding are provided each lesson.
+* The instructor and students will discuss the example before students complete coding exercises, within CodeHS.
+* As students work, the instructor can use class time to address students 1-on-1 to discuss their work, give help, etc.
 
-* **Collaborative Programming Exercises (Pair Programming)**  
-  * Students work with their partner to complete a coding challenge. This includes time to:
-    * Brainstorm and discuss
-    * Plan, including writing pseudocode
-    * Code to meet the goals of the challenge, including code reviews
-    * Reflect on the entire procress
+**Collaborative Programming Exercises (Pair Programming)**  
+* Students work with their partner to complete a coding challenge. This includes time to:
+  * Brainstorm and discuss
+  * Plan, including writing pseudocode
+  * Code to meet the goals of the challenge, including code reviews
+  * Reflect on the entire procress
 
 One student is the driver, who actively works on the design. The second student is the navigator, who observes the driver's work "to ensure objectivity, logic and process flexibility" (Kavitha & Ahmed, 2015). This practice "promotes not only quality programming skills, but also enhances responsibility, mentoring, teamwork and increased sense of passion" (Kavitha & Ahmed, 2015). The pair should actively be working together to meet the goals of the challenge. Indeed, the "effectiveness of the pair programming depends on effective and frequent brainstorming among the pair" (Kavitha & Ahmed, 2015). The roles should also be switched so both students gain experience in both roles.
 
+**Free Response Exercises**
+* Students practice their writing skills while answering a variety of prompts, both reflective and expository.
+
+**End of Unit Assessment**
+* Students will take a summative multiple-choice unit quiz at the end of each unit, in the style of May's AP test.
+
+**AP Create Performance Task**
+* Students will spend a minimum of 12 hours of class time to create an authentic, "real-world" product that includes:
+  * Complete program code
+  * Video the displays the program running and its functionality
+  * Written responses to prompts provided by the College Board
 
 ### Impacts
 
