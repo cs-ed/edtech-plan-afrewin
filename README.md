@@ -35,9 +35,9 @@ Golden Valley High School is one of six comprehensive high schools in the Merced
 * Special Education - 10.5%
 * Homeless Youth (McKinney-Vento) - 7.2%
 
-The District has invested in providing chromebooks to each students. Each campus is outfitted with wireless access points in each classroom and most of the common areas. Students are able to access their Google apps and the internet while at school, in any class or common area they may be in. Unfortunately, there are a number of students who do not have internet access at home; there is a lack of availability for people who live away from the city and some families cannot afford its cost. Students often find ways to still complete their work, often by utilizing a free period or lunch time on campus to complete their online work.
+MUHSD has invested in providing chromebooks to each students. Each campus is outfitted with wireless access points in each classroom and most of the common areas. Students are able to access their Google apps and the internet while at school, in any class or common area they may be in. Unfortunately, there are a number of students who do not have internet access at home; there is a lack of availability for people who live away from the city and some families cannot afford its cost. Students often find ways to still complete their work, often by utilizing a free period or lunch time on campus to complete their online work.
 
-One of the District's LCAP goals is to make all students college and career ready. Every student is required to take a minimum of two years of courses that are focused on career and technical skills (CTE). Ideally, every student will gain proficency or certification in the CTE industry sector they chose to follow. AP Computer Science Principles is considered a "capstone" course in the Information & Communication Technology sector. Students typically enter the class in their junior or senior year.
+One of MUHSD's LCAP goals is to make all students college and career ready. Every student is required to take a minimum of two years of courses that are focused on career and technical skills (CTE). Ideally, every student will gain proficency or certification in the CTE industry sector they chose to follow. AP Computer Science Principles is considered a "capstone" course in the Information & Communication Technology sector. Students typically enter the class in their junior or senior year.
 
 ## Plan
 
@@ -148,12 +148,15 @@ One student is the driver, who actively works on the design. The second student 
 
 ### Impacts
 
-How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
+Technology has become such an integral part of daily life. High school students are on their phones constantly, participating in multiple conversations on Snapchat, checking social media, playing games. They are connected to and see the world in a way that is much different than previous generations.
 
-# References
+MUHSD went one-to-one nearly a decade ago, realizing that students needed to become much more familiar with using computers and the internet. Many professional developments were offered to teachers to help them integrate technology into their lessons. Notes can be posted for students who were absent. Tutorial videos can be posted for students who need extra help. Teachers can organize the entire unit (or course) online in Canvas (or on a website) for students to access on-demand. The Google Translate extension can help English Learners access digital materials in their home language. Assignments can be modified to meet the requirements of an IEP, without calling undue attention to the student. There are so many tools and applications available online that can help all students learn and access the content for any class they are taking.
+
+At the same time, instructors need to ensure that they are still using good teaching strategies. Classes need to engage students at higher Depths of Knowledge. Lessons should be student-centered, with students actively engaging in partner and class discussions. Explicitly teaching expectations and holding students accountable for their learning is key to their continued success. Having those structures in place can also help the class pivot and still use class time productively if the technology fails on a given day (for instance, if the internet goes down in a wing of school due to workers accidentally cutting the fiber optic cables).
+
+Courses, like AP Computer Science Principles, help students begin to explore the impact of technology on society. Often, students don't even realize that what they are doing may be questionable or even illegal, especially regarding the use of copyrighted images. Students should begin to contemplate the ethics of cheating, the social impacts of one's digital footprint, or even privacy concerns in the face of the increasing presence of technology and data mining in daily life. While there are no easy answers, students will be better prepared to use technology as they continue toward adulthood. 
+
+## References
 
 Chen, P., Teo, T. & Zhou, M. (2016). Effects of Guided Notes on Enhancing College Students' Lecture Note-Taking Quality and Learning Performance. *Current Psychology*, 36(4), 719-732. https://doi.org/10.1007/s12144-016-9459-6.
 
