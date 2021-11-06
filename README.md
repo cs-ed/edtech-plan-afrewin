@@ -164,4 +164,4 @@ College Board. (n.d.). *Adopt Ready-to-Use Curricula.* College Board. Retrieved 
 
 Kavitha, R. K. & Ahmed, M. S. I. (2015). Knowledge sharing through pair programming in learning environments: An empirical study. *Education and Information Techonologies*, 20, 319-333. https://doi.org/10.1007/s10639-013-9285-5
 
-Knight, J. K. & Brame, C. J. (2018). Peer Instruction. *CBE Life Sciences Eduation*, 17(2), 1-4.
+Knight, J. K. & Brame, C. J. (2018). Peer Instruction. *CBE Life Sciences Eduation*, 17(2), 1-4. https://www.lifescied.org/doi/pdf/10.1187/cbe.18-02-0025
