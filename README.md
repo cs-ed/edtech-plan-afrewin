@@ -35,7 +35,7 @@ School Demographics by Student Group:
 * Special Education - 10.5%
 * Homeless Youth (McKinney-Vento) - 7.2%
 
-The District has invested in providing chromebooks to each students. Each campus is outfitted with wireless access points in each classroom and most of the common areas. Students are able to access their Google apps and the internet while at school, in any class or common area they may be in. Unfortunately, there are a number of students who do not have access at home, due to lack of availability for people who live away from the city or a family's inability to afford the cost.    
+The District has invested in providing chromebooks to each students. Each campus is outfitted with wireless access points in each classroom and most of the common areas. Students are able to access their Google apps and the internet while at school, in any class or common area they may be in. Unfortunately, there are a number of students who do not have internet access at home; there is a lack of availability for people who live away from the city and some families cannot afford its cost.    
 
 Provide relevant details about your course and/or school that will influence the
 decisions in the plan. What assets and constraints do you face? What is the
@@ -46,17 +46,47 @@ context of your class, considering demographic and technical resources?
 ### Software & Specifications
 
 * Codehs.com
-* 
+* Google Apps for Education
+  * Docs
+  * Slides
+  * Sheets
+  * Forms
+  * Drawings
+  * Jamboard
 Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.
 
 ### Hardware & Specifications
 
-#### Student Hardware
+#### Hardware
 
-* Dell Precision Tower 3620, with 23-inch monitor, wired keyboard and mouse
-* Asus Chromebook
+* Dell Precision Tower 3620 (Computer Lab has 35 Student Stations + 1 Teacher Station)
+  * Dell 23 Monitor - P2317H, 58.4 cm (23"), HAS, VGA, HDMI, DP
+  * Dell Precision Tower 3620 Heat sink (65W)
+  * Dell KB216 Wired Keyboard English
+  * 1394a/b Firewire PCI-e add-in card Full Height
+  * Dell Adapter - DisplayPort to VGA
+  * NVIDIA Quadro M2000 4GB (4 DP) (1 DP to SL-DVI adapter)
+  * System Power Cord (US/Thai/Philippines)
+  * 16x Half Height DVD-/+RW
+  * Integrated Intel SATA Controller
+  * 3.5 1TB (7 200 RPM) SATA Hard Drive
+  * 19-in-1 Media Card Reader
+  * PCIe card with serial and para llel port, Full Height
+  * 16GB (2x8GN) 2133MHz DDR4 Non-ECC RAM
+  * 6th Gen Intel Core i5-6 600 (Quad Core 3.3GHz, 3.9Ghz Turbo, 6MB, w/ HD Graphics 530)
+  * Dell Precision Tower 3620 Up to 90% efficient 365W Chassis
+  * Dell Precision Tower 3620 XCTO BASE
+  * Black Dell MS116 Wired Mouse
+* ASUS Chromebook C204 (1-1 Student Device)
+  * Intel Celeron N4000 Processor 1.1 GHz (4M Cache, up to 2.6 GHz, 2 cores)
+  * Intel UHD Graphics 600
+  * 11.6-inch, LCD, HD (1366 x 768) 16:9, Anti-glare display, LED Backlit, 220nits, NTSC: 45%, Screen-to-body ratio:67 %
+  * 4GB LPDDR4 on board, 4G LPDDR4 on board
+  * 720p HD camera
+  * Wi-Fi 5(802.11ac)+BT5.0 (Dual band) 2*2
+  * 42WHrs, 3S1P, 3-cell Li-ion
 
 ### Application
 
