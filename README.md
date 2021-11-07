@@ -7,7 +7,7 @@ This Educational Technology Plan is designed to ensure that all aspects of the i
 
 ### AP Computer Science Principles
 
-AP Computer Science Principles provides an overview of computer science. Students will:
+The course provides an overview of computer science. Students will:
 * Learn to design solutions to problems and evaluate the efficacy of those solutions
 * Develop algorithms and programs which include abstraction
 * Discover new knowledge using data
@@ -16,7 +16,7 @@ AP Computer Science Principles provides an overview of computer science. Student
 
 ### Golden Valley High School
 
-Golden Valley High School is one of six comprehensive high schools in the Merced Union High School District. Located in the central San Joaquin Valley, the district serves approximately 10,500 students from the Merced, Atwater, and Livingston communities. There are 13 feeder school districts for the entire high school district. Golden Valley's approximately 1850 students come from schools in seven of those feeder districts.
+Golden Valley High School is one of six comprehensive high schools in the Merced Union High School District. Located in the central San Joaquin Valley, the district serves approximately 10,500 students from the Merced, Atwater, and Livingston communities. There are 13 feeder school districts for the entire high school district. Golden Valley's approximately 1,850 students come from schools in seven of those feeder districts.
 
 **School Demographics by Ethnicity:**
 * Hispanic/Latino - 68.2%
@@ -35,9 +35,9 @@ Golden Valley High School is one of six comprehensive high schools in the Merced
 * Special Education - 10.5%
 * Homeless Youth (McKinney-Vento) - 7.2%
 
-MUHSD has invested in providing chromebooks to each students. Each campus is outfitted with wireless access points in each classroom and most of the common areas. Students are able to access their Google apps and the internet while at school, in any class or common area they may be in. Unfortunately, there are a number of students who do not have internet access at home; there is a lack of availability for people who live away from the city and some families cannot afford its cost. Students often find ways to still complete their work, often by utilizing a free period or lunch time on campus to complete their online work.
+MUHSD has invested in providing chromebooks to each student. Each campus is outfitted with wireless access points in each classroom and most of the common areas. Students are able to access their Google apps and the internet while at school, in any class or common area they may be in. Unfortunately, there are a number of students who do not have internet access at home; there is a lack of availability for people who live away from the city and some families cannot afford its cost. Students often find ways to still complete their work, often by utilizing a free period or lunch time on campus.
 
-One of MUHSD's LCAP goals is to make all students college and career ready. Every student is required to take a minimum of two years of courses that are focused on career and technical skills (CTE). Ideally, every student will gain proficency or certification in the CTE industry sector they chose to follow. AP Computer Science Principles is considered a "capstone" course in the Information & Communication Technology sector. Students typically enter the class in their junior or senior year.
+One of MUHSD's LCAP goals is to make all students college and career ready. Every student is required to take a minimum of two years of courses that are focused on career and technical skills (CTE). Ideally, every student will gain proficency or certification in the CTE industry sector they choose to follow. AP Computer Science Principles is considered a "capstone" course in the Information & Communication Technology sector. Students typically enter the class in their junior or senior year.
 
 ## Plan
 
@@ -95,7 +95,7 @@ In an effort to help ensure that teachers will meet the auditing requirements of
 
 > "With a unique focus on creative problem-solving and real-world applications, the CodeHS AP Computer Science Principles curriculum gives students the opportunity to explore important topics of computing. Students use their own ideas and creativity, build artifacts of personal value, and develop an interest in computer science that will foster further endeavors in the field." (College Board, n.d.)
 
-The CodeHS curriculum uses a blended classroom approach of mixing both online activities with in-class collaboarative activities. Students code directly in the CodeHS editor, which is accessed online via the student's workstation computer (in class) or their chromebook (out of class). The course is designed to help students gain programming experience early in the year and then use their computational thinking practices to explore the remaining course topics. Lessons in each unit contain video tutorials, example coding to explore and analyze, written programming exercises, free response exercises, and short quizzes. There are also collaborative projects (pair programming) and research projects. 
+The CodeHS curriculum uses a blended classroom approach of mixing both online activities with in-class collaborative activities. Students code directly in the CodeHS editor, which is accessed online via the student's workstation computer (in class) or their chromebook (out of class). The course is designed to help students gain programming experience early in the year and then use their computational thinking practices to explore the remaining course topics. Lessons in each unit contain video tutorials, example coding to explore and analyze, written programming exercises, free response exercises, and short quizzes. There are also collaborative projects (pair programming) and research projects. 
 
 #### Homework/Out-of-Class Activities
 
@@ -114,7 +114,7 @@ The instructor can use the results of this check for understanding to guide the 
 **Daily Warm-Up via Google Jamboard or Google Form (Peer Instruction)**
 * A question with discrete options is posed.
 * Students consider and submit their answers individually.
-* Students discuss with their answers with their partner, outlining the reasoning behind their response.
+* Students discuss their answers with their partner, outlining the reasoning behind their response.
 * Students are given a chance to resubmit or change their answer.
 * The correct answer is reviewed, with students sharing their (or their partner's) reasoning with the entire class.
 
@@ -143,12 +143,12 @@ One student is the driver, who actively works on the design. The second student 
 **AP Create Performance Task**
 * Students will spend a minimum of 12 hours of class time to create an authentic, "real-world" product that includes:
   * Complete program code
-  * Video the displays the program running and its functionality
+  * Video that displays the program running and its functionality
   * Written responses to prompts provided by the College Board
 
 ### Impacts
 
-Technology has become such an integral part of daily life. High school students are on their phones constantly, participating in multiple conversations on Snapchat, checking social media, playing games. They are connected to and see the world in a way that is much different than previous generations.
+Technology has become such an integral part of daily life. High school students are on their phones constantly, participating in multiple conversations on Snapchat, checking social media, playing games and more. They are connected to and see the world in a way that is much different than previous generations.
 
 MUHSD went one-to-one nearly a decade ago, realizing that students needed to become much more familiar with using computers and the internet. Many professional developments were offered to teachers to help them integrate technology into their lessons. For example, notes can be posted for students who were absent. Tutorial videos can be posted for students who need extra help. Teachers can organize the entire unit (or course) online in Canvas (or on a website) for students to access on-demand. The Google Translate extension can help English Learners access digital materials in their home language. Assignments can be modified to meet the requirements of an IEP, without calling undue attention to the student. There are so many tools and applications available online that can help all students learn and access the content for any class they are taking.
 
