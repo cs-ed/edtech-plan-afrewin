@@ -158,10 +158,10 @@ Courses, like AP Computer Science Principles, help students begin to explore the
 
 ## References
 
-Chen, P., Teo, T. & Zhou, M. (2016). Effects of Guided Notes on Enhancing College Students' Lecture Note-Taking Quality and Learning Performance. *Current Psychology*, 36(4), 719-732. https://doi.org/10.1007/s12144-016-9459-6.
+Chen, P., Teo, T. & Zhou, M. (2016). Effects of Guided Notes on Enhancing College Students' Lecture Note-Taking Quality and Learning Performance. *Current Psychology*, 36(4), 719-732. [https://doi.org/10.1007/s12144-016-9459-6](https://doi.org/10.1007/s12144-016-9459-6).
 
-College Board. (n.d.). *Adopt Ready-to-Use Curricula.* College Board. Retrieved November 6, 2021, from https://apcentral.collegeboard.org/courses/ap-computer-science-principles/classroom-resources/curricula-pedagogical-support?course=ap-computer-science-principles.
+College Board. (n.d.). *Adopt Ready-to-Use Curricula.* College Board. Retrieved November 6, 2021, from [https://apcentral.collegeboard.org/courses/ap-computer-science-principles/classroom-resources/curricula-pedagogical-support?course=ap-computer-science-principles](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/classroom-resources/curricula-pedagogical-support?course=ap-computer-science-principles).
 
-Kavitha, R. K. & Ahmed, M. S. I. (2015). Knowledge sharing through pair programming in learning environments: An empirical study. *Education and Information Techonologies*, 20, 319-333. https://doi.org/10.1007/s10639-013-9285-5
+Kavitha, R. K. & Ahmed, M. S. I. (2015). Knowledge sharing through pair programming in learning environments: An empirical study. *Education and Information Techonologies*, 20, 319-333. [https://doi.org/10.1007/s10639-013-9285-5](https://doi.org/10.1007/s10639-013-9285-5).
 
-Knight, J. K. & Brame, C. J. (2018). Peer Instruction. *CBE Life Sciences Eduation*, 17(2), 1-4. https://www.lifescied.org/doi/pdf/10.1187/cbe.18-02-0025
+Knight, J. K. & Brame, C. J. (2018). Peer Instruction. *CBE Life Sciences Eduation*, 17(2), 1-4. [https://www.lifescied.org/doi/pdf/10.1187/cbe.18-02-0025](https://www.lifescied.org/doi/pdf/10.1187/cbe.18-02-0025).
