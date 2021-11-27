@@ -128,7 +128,7 @@ All students will benefit from completing guided notes. The blanks "serve as str
 **Check for Understanding (Short Quizzes on CodeHS)**
 * After completing their guided notes, students will complete a short "quiz."
 
-The instructor can use the results of the checks for understanding to guide a class discussion to address any misconceptions the students may have. In addition, following day's warm up can be used to reinforce these ideas and help students solidify their reasoning.
+The instructor can use the results of the checks for understanding to guide a class discussion to address any misconceptions the students may have. In addition, the following day's warm up can be used to reinforce these ideas and help students solidify their reasoning. 
 
 **Examples & Coding Exercises**
 * An example of specific types of coding are provided each lesson.
