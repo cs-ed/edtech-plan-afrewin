@@ -106,7 +106,7 @@ In planning for the course, the instructor must be aware that not all students w
 **Free Response Exercises**
 * Students practice their writing skills while answering a variety of prompts, both reflective and expository.
 
-**Coding Exercises
+**Coding Exercises**
 * Students can plan pseudocode for a program to meet a goal. Alternately, students can analyze given coding language to determine the output or look for errors in the code.
 
 #### In-Class Activities
