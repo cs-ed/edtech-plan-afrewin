@@ -45,13 +45,15 @@ One of MUHSD's LCAP goals is to make all students college and career ready. Ever
 
 **All software requires an internet connection:**
 * CodeHS.com
-  * This serves as the main platform for the course curriculum. Students will access videos, assignments, and the CodeHS editor here.
+  * This serves as the main platform for the course curriculum. Students will access videos, assignments, and the CodeHS editor (IDE) here.
 * Google Apps for Education
   * Students will use the suite of Google Apps to do a variety of work, including taking notes, working collaboratively and more.
 * Canvas LMS
   * The day-to-day lessons of the course are organized and accessed via Canvas. It is integrated with Google and Aeries.
 * Aeries
   * The Aeries database is used by the instructor to take daily attendance and keep the gradebook(s) for the class. Students and parents may access Aeries to check their attendance and see their scores in the gradebook.
+* AP Classroom
+  * The College Board offers free videos, topic questions, and progress checks to help students learn and prepare for the AP examination in May.
 
 ### Hardware & Specifications
 
@@ -97,17 +99,15 @@ In an effort to help ensure that teachers will meet the auditing requirements of
 
 The CodeHS curriculum uses a blended classroom approach of mixing both online activities with in-class collaborative activities. Students code directly in the CodeHS editor, which is accessed online via the student's workstation computer (in class) or their chromebook (out of class). The course is designed to help students gain programming experience early in the year and then use their computational thinking practices to explore the remaining course topics. Lessons in each unit contain video tutorials, example coding to explore and analyze, written programming exercises, free response exercises, and short quizzes. There are also collaborative projects (pair programming) and research projects. 
 
+In planning for the course, the instructor must be aware that not all students will have reliable internet access at home. Homework and other out-of-class activities should be tasks that may be done without an active internet connection. This may be work to complete using paper and pencil, but can also be a Google document that the students have downloaded onto their Chromebook for offline editing.
+
 #### Homework/Out-of-Class Activities
 
-**Video Tutorials (Curated by CodeHS or the CollegeBoard/AP Program)**
-* Students will complete guided notes while watching these short videos.
+**Free Response Exercises**
+* Students practice their writing skills while answering a variety of prompts, both reflective and expository.
 
-By watching the videos as homework, class time can be focused on practice and discussions where students need more help. The videos are also available on-demand, allowing students to access them as needed for review or clarification. All students will benefit from completing guided notes. The blanks "serve as strong prompts and scaffolding to direct students' attention to the lecture, as well as to the content of their notes" (Chen et al., 2016).
-
-**Check for Understanding (Short Quizzes on CodeHS)**
-* After completing their guided notes, students will complete a short "quiz."
-
-The instructor can use the results of this check for understanding to guide the selection of the next day's warm up and class discussion to address any misconceptions the students may have.
+**Coding Exercises
+* Students can plan pseudocode for a program to meet a goal. Alternately, students can analyze given coding language to determine the output or look for errors in the code.
 
 #### In-Class Activities
 
@@ -119,6 +119,16 @@ The instructor can use the results of this check for understanding to guide the 
 * The correct answer is reviewed, with students sharing their (or their partner's) reasoning with the entire class.
 
 Peer instruction "explicitly incorporates opportunities for students to explain their reasoning and engage in argumentation, practices that help students integrate new information with existing knowledge and revise their mental models" (Knight & Brame, 2018). It also allows for immediate feedback, allowing students to reflect on their misunderstanding and monitor their own understanding (Knight & Brame, 2018). The warm-up question can be framed to review the previous day's lesson or to spiral review from prior concepts. Questions that uncover common student misconceptions are particularly beneficial to helping students discover why that idea is incorrect (Knight & Brame, 2018). This is also a good format for helping students practice debugging a provided program.
+
+**Video Tutorials (Curated by CodeHS or AP Classroom)**
+* Students will complete guided notes while watching these short videos.
+
+All students will benefit from completing guided notes. The blanks "serve as strong prompts and scaffolding to direct students' attention to the lecture, as well as to the content of their notes" (Chen et al., 2016). Additionally, the videos are available to students on-demand, allowing students to access them as needed for review or clarification. 
+
+**Check for Understanding (Short Quizzes on CodeHS)**
+* After completing their guided notes, students will complete a short "quiz."
+
+The instructor can use the results of the checks for understanding to guide a class discussion to address any misconceptions the students may have. In addition, following day's warm up can be used to reinforce these ideas and help students solidify their reasoning.
 
 **Examples & Coding Exercises**
 * An example of specific types of coding are provided each lesson.
@@ -133,9 +143,6 @@ Peer instruction "explicitly incorporates opportunities for students to explain 
   * Reflect on the entire procress
 
 One student is the driver, who actively works on the design. The second student is the navigator, who observes the driver's work "to ensure objectivity, logic and process flexibility" (Kavitha & Ahmed, 2015). This practice "promotes not only quality programming skills, but also enhances responsibility, mentoring, teamwork and increased sense of passion" (Kavitha & Ahmed, 2015). The pair should actively be working together to meet the goals of the challenge. Indeed, the "effectiveness of the pair programming depends on effective and frequent brainstorming among the pair" (Kavitha & Ahmed, 2015). The roles should also be switched so both students gain experience in both roles.
-
-**Free Response Exercises**
-* Students practice their writing skills while answering a variety of prompts, both reflective and expository.
 
 **End of Unit Assessment**
 * Students will take a summative multiple-choice unit quiz at the end of each unit, in the style of May's AP test.
