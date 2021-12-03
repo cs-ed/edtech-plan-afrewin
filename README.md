@@ -57,7 +57,7 @@ One of MUHSD's LCAP goals is to make all students college and career ready. Ever
 
 ### Hardware & Specifications
 
-#### Computer Lab (35 Student Stations + 1 Teacher Station)
+#### Computer Lab (35 Student Stations + 1 Teacher Station, with LCD Projector and Speakers)
 
 * **Dell Precision Tower 3620**
   * Processor
@@ -99,7 +99,7 @@ In an effort to help ensure that teachers will meet the auditing requirements of
 
 The CodeHS curriculum uses a blended classroom approach of mixing both online activities with in-class collaborative activities. Students code directly in the CodeHS editor, which is accessed online via the student's workstation computer (in class) or their chromebook (out of class). The course is designed to help students gain programming experience early in the year and then use their computational thinking practices to explore the remaining course topics. Lessons in each unit contain video tutorials, example coding to explore and analyze, written programming exercises, free response exercises, and short quizzes. There are also collaborative projects (pair programming) and research projects. 
 
-In planning for the course, the instructor must be aware that not all students will have reliable internet access at home. Homework and other out-of-class activities should be tasks that may be done without an active internet connection. This may be work to complete using paper and pencil, but can also be a Google document that the students have downloaded onto their Chromebook for offline editing.
+In planning for the course, the instructor must be aware that not all students will have reliable internet access at home. Homework and other out-of-class activities should be tasks that may be done without an active internet connection. This may be work to complete using paper and pencil, but can also be a Google document that the students download onto their Chromebook for offline editing.
 
 #### Homework/Out-of-Class Activities
 
@@ -107,7 +107,7 @@ In planning for the course, the instructor must be aware that not all students w
 * Students practice their writing skills while answering a variety of prompts, both reflective and expository.
 
 **Coding Exercises**
-* Students can plan pseudocode for a program to meet a specific goal, which they then can use during class time to write a program. Alternately, students can analyze given coding language to determine the output or to look for errors in the code.
+* Students can plan pseudocode for a program to meet a specific goal. They can then use their code during class time to write the program. Alternately, students can analyze given coding language to determine the output or to look for errors in the code.
 
 #### In-Class Activities
 
@@ -159,7 +159,7 @@ Technology has become such an integral part of daily life. High school students 
 
 MUHSD went one-to-one nearly a decade ago, realizing that students needed to become much more familiar with using computers and the internet. Many professional developments were offered to teachers to help them integrate technology into their lessons. For example, notes can be posted for students who were absent. Tutorial videos can be posted for students who need extra help. Teachers can organize the entire unit (or course) online in Canvas (or on a website) for students to access on-demand. The Google Translate extension can help English Learners access digital materials in their home language. Assignments can be modified to meet the requirements of an IEP, without calling undue attention to the student. There are so many tools and applications available online that can help all students learn and access the content for any class they are taking.
 
-At the same time, instructors need to ensure that they are still using good teaching strategies. Classes need to engage students at higher Depths of Knowledge. Lessons should be student-centered, with students actively engaging in partner and class discussions. Explicitly teaching expectations and holding students accountable for their learning is key to their continued success. Having those structures in place can also help the class pivot and still use class time productively if the technology fails on a given day (for instance, if the internet goes down in a wing of school due to workers accidentally cutting the fiber optic cables).
+At the same time, instructors need to ensure that they are still using good teaching strategies. Classes need to engage students at higher Depths of Knowledge. Lessons should be student-centered, with students actively engaging in partner and class discussions. Explicitly teaching expectations and holding students accountable for their learning is key to their continued success. Having those structures in place can also help the class pivot and still use class time productively if the technology fails on a given day (for instance, if the internet goes down in a wing of school due to workers accidentally cutting the fiber optic cables). 
 
 Courses, like AP Computer Science Principles, help students begin to explore the impact of technology on society. Often, students don't even realize that what they are doing may be questionable or even illegal, especially regarding the use of copyrighted images. Students should begin to contemplate the ethics of cheating, the social impacts of one's digital footprint, or even privacy concerns in the face of the increasing presence of technology and data mining in daily life. While there are no easy answers, students will be better prepared to use technology as they continue toward adulthood. 
 
