@@ -37,7 +37,7 @@ Golden Valley High School is one of six comprehensive high schools in the Merced
 
 MUHSD has invested in providing chromebooks to each student. Each campus is outfitted with wireless access points in each classroom and most of the common areas. Students are able to access their Google apps and the internet while at school, in any class or common area they may be in. Unfortunately, there are a number of students who do not have internet access at home; there is a lack of availability for people who live away from the city and some families cannot afford its cost. Students often find ways to still complete their work, often by utilizing a free period or lunch time on campus.
 
-One of MUHSD's LCAP goals is to make all students college and career ready. Every student is required to take a minimum of two years of courses that are focused on career and technical skills (CTE). Ideally, every student will gain proficency or certification in the CTE industry sector they choose to follow. AP Computer Science Principles is considered a "capstone" course in the Information & Communication Technology sector. Students typically enter the class in their junior or senior year.
+One of MUHSD's LCAP goals is to make all students college and career ready. Every student is required to take a minimum of two years of courses that are focused on career and technical skills (CTE). Ideally, every student will gain proficiency or certification in the CTE industry sector they choose to follow. AP Computer Science Principles is considered a "capstone" course in the Information & Communication Technology sector. Students typically enter the class in their junior or senior year.
 
 ## Plan
 
@@ -95,7 +95,7 @@ One of MUHSD's LCAP goals is to make all students college and career ready. Ever
 
 ### Application
 
-In an effort to help ensure that teachers will meet the auditing requirements of the course, the College Board has endorsed curricula for AP Computer Science Principles. These preapproved curricula have been developed by organizations that are expert in computer science and education, from Apple and Microsoft to Code.org or Tynker. Golden Valley has chosen to adopt the AP Computer Science Principles curriculm available on CodeHS. Per the College Board website:
+In an effort to help ensure that teachers will meet the auditing requirements of the course, the College Board has endorsed curricula for AP Computer Science Principles. These pre-approved curricula have been developed by organizations that are experts in computer science and education, from Apple and Microsoft to Code.org or Tynker. Golden Valley has chosen to adopt the AP Computer Science Principles curriculum available on CodeHS. Per the College Board website:
 
 > "With a unique focus on creative problem-solving and real-world applications, the CodeHS AP Computer Science Principles curriculum gives students the opportunity to explore important topics of computing. Students use their own ideas and creativity, build artifacts of personal value, and develop an interest in computer science that will foster further endeavors in the field." (College Board, n.d.)
 
@@ -110,7 +110,7 @@ In planning for the course, the instructor must be aware that not all students w
 
 **Coding Exercises**
 * Students can plan pseudocode for a program to meet a specific goal, which they can use to guide their coding during class time.
-* Alternately, students can analyze given coding language to determine the output or to look for errors in the code. These analysis exercises can be incorporated into the daily warm-ups to ensure that students will have an opportunity to solidfy their reasoning.
+* Alternately, students can analyze coding language to determine the output or to look for errors in the code. These analysis exercises can be incorporated into the daily warm-ups to ensure that students will have an opportunity to solidify their reasoning.
 
 #### In-Class Activities
 
@@ -146,7 +146,7 @@ The instructor can use the results of the checks for understanding to address an
   * Brainstorm and discuss
   * Plan, including writing pseudocode
   * Code to meet the goals of the challenge, including code reviews
-  * Reflect on the entire procress
+  * Reflect on the entire process
 
 One student is the driver, who actively works on the design. The second student is the navigator, who observes the driver's work "to ensure objectivity, logic and process flexibility" (Kavitha & Ahmed, 2015). This practice "promotes not only quality programming skills, but also enhances responsibility, mentoring, teamwork and increased sense of passion" (Kavitha & Ahmed, 2015). The pair should actively be working together to meet the goals of the challenge. Indeed, the "effectiveness of the pair programming depends on effective and frequent brainstorming among the pair" (Kavitha & Ahmed, 2015). The roles should also be switched so both students gain experience in both roles.
 
