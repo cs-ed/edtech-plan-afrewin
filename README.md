@@ -109,7 +109,8 @@ In planning for the course, the instructor must be aware that not all students w
 * Students practice their writing skills while answering a variety of prompts, both reflective and expository.
 
 **Coding Exercises**
-* Students can plan pseudocode for a program to meet a specific goal. They can then use their code during class time to write the program. Alternately, students can analyze given coding language to determine the output or to look for errors in the code.
+* Students can plan pseudocode for a program to meet a specific goal, which they can use to guide their coding during class time.
+* Alternately, students can analyze given coding language to determine the output or to look for errors in the code. These analysis exercises can be incorporated into the daily warm-ups to ensure that students will have an opportunity to solidfy their reasoning.
 
 #### In-Class Activities
 
@@ -133,11 +134,11 @@ All students will benefit from completing guided notes. The blanks "serve as str
 **Check for Understanding (Short Quizzes on CodeHS)**
 * After completing their guided notes and corresponding class discussion, students will complete a short "quiz."
 
-The instructor can use the results of the checks for understanding to address any misconceptions the students in a class discussion or following lesson. In addition, the following day's warm up can be used to reinforce these ideas and help students solidify their reasoning. 
+The instructor can use the results of the checks for understanding to address any student misconceptions with each student individually or with all students in a class discussion or following lesson. Additionally, the following day's warm up can be used to reinforce these ideas and help students solidify their reasoning. 
 
 **Examples & Coding Exercises**
 * An example of specific types of coding are provided each lesson.
-* The instructor and students will discuss the example before students complete coding exercises, within CodeHS.
+* The instructor and students will discuss the example before students complete coding exercises, within CodeHS. 
 * As students work, the instructor can use class time to address students 1-on-1 to discuss their work, give help, etc.
 
 **Collaborative Programming Exercises (Pair Programming)**  
@@ -148,6 +149,8 @@ The instructor can use the results of the checks for understanding to address an
   * Reflect on the entire procress
 
 One student is the driver, who actively works on the design. The second student is the navigator, who observes the driver's work "to ensure objectivity, logic and process flexibility" (Kavitha & Ahmed, 2015). This practice "promotes not only quality programming skills, but also enhances responsibility, mentoring, teamwork and increased sense of passion" (Kavitha & Ahmed, 2015). The pair should actively be working together to meet the goals of the challenge. Indeed, the "effectiveness of the pair programming depends on effective and frequent brainstorming among the pair" (Kavitha & Ahmed, 2015). The roles should also be switched so both students gain experience in both roles.
+
+For both the coding exercises and collaborative programming exercises, students can demonstrate mastery of specific learning goals while working in different contexts. For example, some students are excited about sports while others may be more interested in astronomy. Designing multiple access points allows students to work on the same exercise while using information and situations that each student finds relevant to them. 
 
 **End of Unit Assessment**
 * Students will take a summative multiple-choice unit quiz at the end of each unit, in the style of May's AP test.
@@ -164,7 +167,7 @@ Technology has become such an integral part of daily life. High school students 
 
 MUHSD went one-to-one nearly a decade ago, realizing that students needed to become much more familiar with using computers and the internet. Many professional developments were offered to teachers to help them integrate technology into their lessons. For example, notes can be posted for students who were absent. Tutorial videos can be posted for students who need extra help. Teachers can organize the entire unit (or course) online in Canvas (or on a website) for students to access on-demand. The Google Translate extension can help English Learners access digital materials in their home language. Assignments can be modified to meet the requirements of an IEP, without calling undue attention to the student. There are so many tools and applications available online that can help all students learn and access the content for any class they are taking.
 
-At the same time, instructors need to ensure that they are still using good teaching strategies. Classes need to engage students at higher Depths of Knowledge. Lessons should be student-centered, with students actively engaging in partner and class discussions. Explicitly teaching expectations and holding students accountable for their learning is key to their continued success. Having those structures in place can also help the class pivot and still use class time productively if the technology fails on a given day (for instance, if the internet goes down on campus) or if the school is required to return to remote learning. 
+At the same time, instructors need to ensure that they are still using good teaching strategies. Classes need to engage students at higher Depths of Knowledge. Lessons should be student-centered, with students actively engaging in partner and class discussions. Explicitly teaching expectations and holding students accountable for their learning is key to their continued success. Having those structures in place can also help the class pivot and still use class time productively if the technology fails on a given day (for instance, if the internet goes down on campus) or if the school is required to return to remote learning.
 
 Courses, like AP Computer Science Principles, help students begin to explore the impact of technology on society. Often, students don't even realize that what they are doing may be questionable or even illegal, especially regarding the use of copyrighted images. Students should begin to contemplate the ethics of cheating, the social impacts of one's digital footprint, or even privacy concerns in the face of the increasing presence of technology and data mining in daily life. While there are no easy answers, students will be better prepared to use technology as they continue toward adulthood.
 
